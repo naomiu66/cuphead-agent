@@ -1,0 +1,4 @@
+*bin/
+*obj/
+*.ps1
+global.json
